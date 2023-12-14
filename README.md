@@ -1,7 +1,8 @@
 # plex-file-renamer
 # About
 Python script for renaming media files according to Plex's naming conventions.
-This script is useful when Plex does not automatically detect local media files and is unable to get content data for the files.
+This script is useful when a Plex server does not automatically detect local media files and is unable to get content data for the files. Oftentimes renaming the file names and refreshing the library resolves this issue. This script is designed to make that process less tedious.
+Guidelines I used for the file naming format: https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/
 
 # Usage
 This is an interactive program that does not take command-line arguments.
